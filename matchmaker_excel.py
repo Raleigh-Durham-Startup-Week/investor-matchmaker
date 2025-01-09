@@ -25,7 +25,7 @@ SECTOR_COLS = [
     "Sector: Consumer Products",
     "Sector: Consumer Services",
     "Sector: Consulting",
-    "Sector: Cybersecurity",  # Corrected spelling
+    "Sector: Cybersecurity",
     "Sector: DeepTech/HardTech",
     "Sector: EdTech",
     "Sector: FinTech",
